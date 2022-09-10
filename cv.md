@@ -1,5 +1,3 @@
-#### *rsschool-cv*
-
 <img src="https://MikeHNTS.github.io/rsschool-cv/MVs.jpg" width="81" height="112" />
 
 # Michael Vorobyev
@@ -69,4 +67,4 @@ function myFunction(item) {
 
 #### Github projects
 
-[CV project](https://github.com/MikeHNTS/rsschool-cv/blob/gh-pages/cvMV.md)
+[CV project](https://mikehnts.github.io/rsschool-cv/cv)
