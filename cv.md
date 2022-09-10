@@ -2,7 +2,7 @@
 
 # Michael Vorobyev
 
-#### Junior Frontend Developer
+### Junior Frontend Developer
 
 ###### Contact Information
 
@@ -10,11 +10,11 @@
 
 ###### Telegram: @MVhnts
 
-###### [LinkedIn](www.linkedin.com/in/MVhnts)
-
 ###### RE-School Discord: @MikeHNTS
 
----
+###### [LinkedIn](https://www.linkedin.com/in/MikeHNTS)
+
+#
 
 #### About myself
 
