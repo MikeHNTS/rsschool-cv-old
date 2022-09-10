@@ -1,4 +1,4 @@
-<img src="https://MikeHNTS.github.io/rsschool-cv/MVs.jpg" width="81" height="112" />
+![](https://MikeHNTS.github.io/rsschool-cv/MVss.jpg)
 
 # Michael Vorobyev
 
