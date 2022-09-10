@@ -1,6 +1,6 @@
 #### *rsschool-cv*
 
-<img src="https://github.com/MikeHNTS/rsschool-cv/blob/gh-pages/MVs.jpg" width="81" height="112" />
+<img src="https://MikeHNTS.github.io/rsschool-cv/MVs.jpg" width="81" height="112" />
 
 # Michael Vorobyev
 
