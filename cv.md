@@ -60,6 +60,7 @@ function myFunction(item) {
 #### Languages
 
 * English - C2 Proficient [EF SET Certificate](https://www.efset.org/cert/Sx7zic)
+ ![](https://MikeHNTS.github.io/rsschool-cv/EFcertificate.jpeg)
 * French - basic
 * Russian - native
 
