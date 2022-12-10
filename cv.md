@@ -54,11 +54,11 @@ function myFunction(item) {
 
 #### Education
 
-* Plekhanov Russian University of Economics busuness school: *MBA*
-* Russian State Universitu for Geological Prospecting: *geophysicist*
+* Plekhanov Russian University of Economics - busuness school: *MBA*
+* Russian State University for Geological Prospecting: *geophysicist*
 
 #### Languages
-
+![](https://MikeHNTS.github.io/rsschool-cv/EFcertificate.jpeg)
 * English - C2 Proficient [EF SET Certificate](https://www.efset.org/cert/Sx7zic)
 * French - basic
 * Russian - native
