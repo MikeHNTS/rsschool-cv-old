@@ -54,8 +54,8 @@ function myFunction(item) {
 
 #### Education
 
-* Plekhanov Russian University of Economics busuness school: *MBA*
-* Russian State Universitu for Geological Prospecting: *geophysicist*
+* Plekhanov Russian University of Economics - busuness school: *MBA*
+* Russian State University for Geological Prospecting: *geophysicist*
 
 #### Languages
 
